@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box !important;
+        list-style: none !important;
+    text-decoration: none !important;
+}
+body{
+    overflow-x: hidden;
+    width: 100vw;
+}
